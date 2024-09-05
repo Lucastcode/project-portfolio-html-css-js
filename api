@@ -48,12 +48,6 @@
   ],
   "portfolio": [
     {
-      "name": "Projeto Recriando o site do Wikipédia com layout melhor - tema Heartstopper",
-      "url": "https://github.com/MarcosWinther/projeto-recriando-o-site-wikepedia-com-layout-melhor",
-      "certificate": "https://www.dio.me/certificate/AB5C29B3/share",
-      "github": true
-    },
-    {
       "name": "Projeto Curriculum Vitae Online",
       "url": "https://github.com/MarcosWinther/curriculo-online-MarcosWinther",
       "certificate": "https://www.dio.me/certificate/99E1A3A5/share",
